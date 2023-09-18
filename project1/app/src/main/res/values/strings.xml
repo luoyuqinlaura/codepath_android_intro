@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hello Puppy</string>
+
+    <string name="first_name">Laura</string>
+    <string name="last_name">Luo</string>
+    <string name="full_name">%s %s</string>
+
+    <string name="profile_bio_text">Fast learner with interdisciplinary background.</string>
+
+    <string name="profile_hobby_header_text" style="@style/GreenText">Greatest Hobbies of All Time:</string>
+    <string name="profile_hobby_first_text">🥇 Swimming </string>
+    <string name="profile_hobby_second_text">🥈 Travel </string>
+    <string name="profile_hobby_third_text">🥉 Reading </string>
+</resources>
