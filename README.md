@@ -2,7 +2,7 @@
 
 ### App Walk-though
 
-<img src="../project2/demo.gif" />
+<img src="https://github.com/luoyuqinlaura/codepath_android_intro/blob/main/project2/demo.gif" />
 
 ### Achieved Features
 
