@@ -1,3 +1,23 @@
+## Project 3:Animal App
+
+### App Walk-though
+
+<img src="" />
+
+### Achieved Features
+
+* | Pick an app screenshot to duplicate                          | ☑️    |
+  | ------------------------------------------------------------ | ---- |
+  | Create a runnable app that displays an Animal Version of your chosen screenshot | ☑️    |
+  | The layout must include:                                     |      |
+  | ○ 1 or more **ConstraintLayout**                             | ☑️    |
+  | ○ 1 or more **ImageView**                                    | ☑️    |
+  | ○ 3 or more **TextViews**                                    | ☑️    |
+
+
+
+
+
 ## Project 2:Kotlin Debug-a-thon
 
 ### App Walk-though
